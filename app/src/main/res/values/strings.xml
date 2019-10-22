@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WanAndroidDemo</string>
+
+    <string-array name="tab_title">
+        <item>主页</item>
+        <item>体系</item>
+        <item>导航</item>
+        <item>项目</item>
+    </string-array>
+</resources>
